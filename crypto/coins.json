@@ -42,9 +42,5 @@
     {
         "value": "LINK",
         "label": "LINK — 체인링크"
-    },
-    {
-        "value": "OTHER",
-        "label": "기타"
     }
 ]
