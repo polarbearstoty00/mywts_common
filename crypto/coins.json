@@ -45,49 +45,6 @@
     },
     {
         "value": "ONDO",
-        "label": "ONDO — 온도파이낸스
-    {
-        "value": "USDT",
-        "label": "USDT — 테더"
-    },
-    {
-        "value": "USDC",
-        "label": "USDC — 유에스디코인"
-    },
-    {
-        "value": "BTC",
-        "label": "BTC — 비트코인"
-    },
-    {
-        "value": "ETH",
-        "label": "ETH — 이더리움"
-    },
-    {
-        "value": "XRP",
-        "label": "XRP — 엑스알피(리플)"
-    },
-    {
-        "value": "DOGE",
-        "label": "DOGE — 도지코인"
-    },
-    {
-        "value": "ADA",
-        "label": "ADA — 에이다"
-    },
-    {
-        "value": "AVAX",
-        "label": "AVAX — 아발란체"
-    },
-    {
-        "value": "DOT",
-        "label": "DOT — 폴카닷"
-    },
-    {
-        "value": "LINK",
-        "label": "LINK — 체인링크"
-    },
-    {
-        "value": "ONDO",
         "label": "ONDO — 온도파이낸스"
     },
     {
